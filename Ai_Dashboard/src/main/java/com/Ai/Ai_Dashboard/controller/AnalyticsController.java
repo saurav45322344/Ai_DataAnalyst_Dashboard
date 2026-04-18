@@ -19,10 +19,6 @@ public class AnalyticsController {
 @Autowired
     private  AnalyticsService service;
 
-   
-
-    // Example:
-    // /api/analytics?groupBy=month&value=sales
 
     @GetMapping
     public List<ChartResponse> getChart(
