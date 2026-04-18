@@ -1,31 +1,4 @@
 import axios from "axios";
-
-// export default function UploadSection() {
-//   const handleUpload = async (e) => {
-//     const file = e.target.files[0];
-
-//     const formData = new FormData();
-//     formData.append("file", file);
-
-//     try {
-//       await axios.post("http://localhost:8080/api/upload", formData);
-//       alert("Upload Successful ✅");
-//     } catch (err) {
-//       console.error(err);
-//       alert("Upload Failed ❌");
-//     }
-//   };
-
-//   return (
-//     <div style={{ padding: "20px" }}>
-//       <h3>Upload CSV</h3>
-//       <input type="file" onChange={handleUpload} />
-//     </div>
-//   );
-// }
-
-
-
 export default function UploadSection() {
   const handleUpload = async (e) => {
     const file = e.target.files[0];
