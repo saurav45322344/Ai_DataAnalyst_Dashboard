@@ -15,7 +15,6 @@ export default function Dashboard() {
 
   const API = "http://localhost:8080/api";
 
-  // 🔥 FILE UPLOAD
   const handleUpload = async (e) => {
     const file = e.target.files[0];
     if (!file) return;
@@ -28,7 +27,6 @@ export default function Dashboard() {
 await axios.post("http://localhost:8080/api/upload", formData);
       alert("File uploaded ✅");
 
-      // 🔥 AUTO ASK AFTER UPLOAD
       handleAutoAsk();
 
     } catch (err) {
