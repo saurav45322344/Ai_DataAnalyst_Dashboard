@@ -71,3 +71,15 @@ Summary → AI-generated insights
 User Query → AI Intent Detection → Column Mapping → Aggregation → Chart/Insight
 🔧 Setup Instructions
 🔹 Backend (Spring Boot)
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1faa13d7-800a-4028-bed6-1d1b28ab2ea4" />
+<img width="1920" height="1080" alt="Screenshot (245)" src="https://github.com/user-attachments/assets/f8f8e687-8036-43c2-b680-f2066845c111" />
+<img width="1920" height="1080" alt="Screenshot (244)" src="https://github.com/user-attachments/assets/9e879b7d-7fd2-4fcd-bf18-deb40577f042" />
+<img width="1920" height="1080" alt="Screenshot (243)" src="https://github.com/user-attachments/assets/588bf048-0ac7-425a-9d73-93f37ef1f850" />
+<img width="1920" height="1080" alt="Screenshot (242)" src="https://github.com/user-attachments/assets/8ab59eac-c86b-43ae-8649-bdf1ab4d7a96" />
+
+
+
+
+
