@@ -26,25 +26,5 @@ public class SecurityConfig {
 
 }
 
-
-
-
-
-
-//	@Bean
-//	SecurityFilterChain filterChain(HttpSecurity http) throws Exception {
-//		http
-//		//.cors(cors -> {})
-//		.csrf(csrf -> csrf.disable()) 
-//		//.cors(cors -> {})
-//		.authorizeHttpRequests(auth -> auth
-//				.requestMatchers("/api/upload").permitAll()
-//				 .requestMatchers("/api/ai/**").permitAll().anyRequest().authenticated()
-//				 );
-////				.anyRequest().permitAll()
-////				.authenticated()
-////				);
-//
-//		return http.build();
 //
 //	}
